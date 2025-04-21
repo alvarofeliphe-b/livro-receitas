@@ -2,4 +2,4 @@
 
 - ensopado
 
-**Ingredientes:**
+  **Ingredientes:**
